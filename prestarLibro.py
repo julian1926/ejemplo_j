@@ -1,7 +1,7 @@
 import gestor as g
 
 def prestar_libro():
-    print("----- Libros disponibles -----")
+    print("----- Aqui estan los Libros disponibles -----")
     libros = g.cargarJson("libros.json")
 
     if not libros:
