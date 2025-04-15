@@ -1,4 +1,5 @@
 import json
+print("bienvenido")
 def cargarJson(nombreArchivo):
     try:
         with open(nombreArchivo,"r",encoding="utf-8") as archivo:
