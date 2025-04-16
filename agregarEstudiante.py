@@ -1,6 +1,6 @@
 import gestorArchivos as ga
 print ("vamos a ingresar un estudiante")
-
+print("vamos a comenzar")
 
 def agregar_estudiantes():
     nombre=input("ingrese el nombre del estudiante: ")
