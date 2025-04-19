@@ -2,6 +2,7 @@ import gestorArchivos as ga
 print ("vamos a ingresar un estudiante")
 print("vamos a comenzar")
 print("ggggg")
+print("hhh")
 
 
 def agregar_estudiantes():
