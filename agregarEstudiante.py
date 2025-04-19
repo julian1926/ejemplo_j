@@ -2,9 +2,9 @@ import gestorArchivos as ga
 print ("vamos a ingresar un estudiante")
 print("vamos a comenzar")
 print("ggggg")
-print("hhh")
-print("lll")
+print("nnn")
 
+print("nnn")
 
 def agregar_estudiantes():
     nombre=input("ingrese el nombre del estudiante: ")
