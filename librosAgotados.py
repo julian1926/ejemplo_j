@@ -1,5 +1,8 @@
+
 import gestor as g
 print("triple f")
+print("que bueno")
+print("lalalalala")
 
 def mostrar_libros_agotados():
     libros = g.cargarJson("libros.json")  # Corregido: la extensión debe ser .json
