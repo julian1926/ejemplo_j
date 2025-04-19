@@ -3,6 +3,7 @@ print ("vamos a ingresar un estudiante")
 print("vamos a comenzar")
 print("ggggg")
 print("hhh")
+print("lll")
 
 
 def agregar_estudiantes():
